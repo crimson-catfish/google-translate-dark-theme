@@ -1,2 +1,4 @@
-# google-translate-dark-theme
-Simple dark theme for google translate
+# google translate dark theme
+Chrome extention that changes specifically google translate site to dark theme.
+
+
